@@ -1,0 +1,11 @@
+langchain 
+streamlit
+langchain_community
+langchain_groq
+langchain.core
+ollama
+python-dotenv
+pypdf
+chromadb
+groq
+fpdf
